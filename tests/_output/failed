@@ -1,2 +1,0 @@
-tests/api/DeletePromotionCest.php:deleteEnabledPromotion
-tests/api/UpdatePromotionCest.php:updatePromotionWithInvalidTypeOfTechnicalName
